@@ -1,6 +1,6 @@
 
 pageTitle = "Josiah is Awesome"
-doctype 5
+    doctype 5
 html(lang="en")
     head
         title= pageTitle
